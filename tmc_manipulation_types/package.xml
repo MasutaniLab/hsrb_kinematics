@@ -1,0 +1,19 @@
+<package format="3">
+  <name>tmc_manipulation_types</name>
+  <version>2.0.0</version>
+  <description>Basic types for tmc_manipulation_types</description>
+
+  <maintainer email="xr-hsr-support@mail.toyota.co.jp">HSR Support</maintainer>
+
+  <license>BSD 3-clause Clear License</license>
+
+  <author>Keisuke Takeshita</author>
+  <author>Koji Terada</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>eigen</build_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
