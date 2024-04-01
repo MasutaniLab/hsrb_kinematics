@@ -34,6 +34,7 @@ DAMAGE.
 #define TMC_MANIPULATION_TYPES_MANIPULATION_TYPES_HPP_
 
 #include <boost/serialization/nvp.hpp>
+#include <boost/serialization/split_member.hpp>
 
 #include <Eigen/Core>
 
